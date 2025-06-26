@@ -21,4 +21,12 @@ We also have to edit a file to record the changes or updates you make to the dir
 
 ![image](https://github.com/user-attachments/assets/1f68a373-8049-429f-accc-da563915aaed)
 
-- Using mkdir command to makes a logs subdirectory within the analyst directory.
+- Using the MKDIR command to make a logs subdirectory within the analyst directory.
+
+![image](https://github.com/user-attachments/assets/cf9c43b0-e22b-4452-9c26-172028dc2f95)
+
+- Using the PWD command to verify I'm in the right directory and using the ls command to verify the logs directory has been made.
+
+  ![image](https://github.com/user-attachments/assets/4f488665-38b9-4aa0-a311-0e0d802ab9ec)
+
+- Using the RMDIR command, delete the temp directory.
