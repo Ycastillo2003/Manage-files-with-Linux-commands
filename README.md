@@ -38,3 +38,8 @@ We also have to edit a file to record the changes or updates you make to the dir
 ![image](https://github.com/user-attachments/assets/88cf08cf-1a0a-4596-9ea2-f32001be8e15)
 
 - Using cd to move to the reports folder directory, and using ls to see the files in the report folder.
+
+![image](https://github.com/user-attachments/assets/16c804c3-22aa-4b6c-8afc-f1ef13e420bf)
+
+- Using CD to return to the analyst directory, and ls to list the subdirectories in the analyst directory, and CD again to navigate to the notes directory.
+
