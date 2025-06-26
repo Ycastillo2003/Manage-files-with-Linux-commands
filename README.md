@@ -34,3 +34,7 @@ We also have to edit a file to record the changes or updates you make to the dir
 ![image](https://github.com/user-attachments/assets/f920f783-1aa3-47b3-968e-86ba3734acb6)
 
 - Verifying that the temp directory was deleted.
+
+![image](https://github.com/user-attachments/assets/88cf08cf-1a0a-4596-9ea2-f32001be8e15)
+
+- Using cd to move to the reports folder directory, and using ls to see the files in the report folder.
