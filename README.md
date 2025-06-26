@@ -55,3 +55,6 @@ We also have to edit a file to record the changes or updates you make to the dir
 
 - Creating a new file called  task.txt and using ls to verify that it has been successfully created.
 
+![image](https://github.com/user-attachments/assets/9caa887c-2b8e-4ce9-a053-b8bdc7c6cef9)
+
+- Using CD and LS to navigate to the Logs folder and seeing the files inside the Logs Directory with the ls command.
