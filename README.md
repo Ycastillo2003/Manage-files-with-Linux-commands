@@ -17,4 +17,4 @@ We also have to edit a file to record the changes or updates you make to the dir
 
 ![image](https://github.com/user-attachments/assets/06183f13-a4c6-487f-a440-a70112e52a59)
 
-- Using the PWD command to see in what directory we are currently in, and the ls command to see all the directories in the analyst directory.
+- Using the PWD command to see in what directory we are currently in, and the ls command to see all the Sub directories in the analyst directory.
