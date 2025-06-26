@@ -51,4 +51,7 @@ We also have to edit a file to record the changes or updates you make to the dir
 
 - Using Rm to remove the tempnotes files and using ls to verify that the files have been removed.
 
+![image](https://github.com/user-attachments/assets/1230dfba-0a48-4a0f-9d33-43015fd50818)
+
+- Creating a new file called  task.txt and using ls to verify that it has been successfully created.
 
