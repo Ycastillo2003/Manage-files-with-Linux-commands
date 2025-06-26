@@ -73,4 +73,6 @@ We also have to edit a file to record the changes or updates you make to the dir
 
 ![image](https://github.com/user-attachments/assets/0ce6d248-a932-4e31-a0fe-f63c21080797)
 
-- Editing the task.txt in  home/analyst/notes file with nano.
+- Editing the task.txt in  the home/analyst/notes file with nano.
+
+Thanks for making it to the end of this lab.
