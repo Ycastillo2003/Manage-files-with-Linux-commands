@@ -11,3 +11,8 @@ This project focuses on mastering essential file management operations within th
 - Linux.
 
 # Actions and observations
+In this scenario, we need to ensure that the /home/analyst directory is properly organized.
+
+WE have to make a few changes to the /home/analyst directory and the files it contains.
+
+We also have to edit a file to record the changes or updates you make to the directory.
