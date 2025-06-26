@@ -63,3 +63,6 @@ We also have to edit a file to record the changes or updates you make to the dir
 
 - Moving Q3patches.txt from Logs to the reports directory, where the other patch files are (moved it to Logs from Notes by accident the first time).
 
+![image](https://github.com/user-attachments/assets/b3ba573c-533e-4365-8d2c-e79d76102996)
+
+- Navigating to the reports directory and using ls to verify that the Q3patches file has been moved there.
