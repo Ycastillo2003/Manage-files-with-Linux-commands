@@ -58,3 +58,8 @@ We also have to edit a file to record the changes or updates you make to the dir
 ![image](https://github.com/user-attachments/assets/9caa887c-2b8e-4ce9-a053-b8bdc7c6cef9)
 
 - Using CD and LS to navigate to the Logs folder and seeing the files inside the Logs Directory with the ls command.
+
+![image](https://github.com/user-attachments/assets/d6b5b98a-21a5-4985-82f2-5df0b6d269e0)
+
+- Moving Q3patches.txt from Logs to the reports directory, where the other patch files are (moved it to Logs from Notes by accident the first time).
+
