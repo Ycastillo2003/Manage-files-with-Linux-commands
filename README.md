@@ -57,7 +57,7 @@ We also have to edit a file to record the changes or updates you make to the dir
 
 ![image](https://github.com/user-attachments/assets/9caa887c-2b8e-4ce9-a053-b8bdc7c6cef9)
 
-- Using CD and LS to navigate to the Logs folder and seeing the files inside the Logs Directory with the ls command.
+- Using CD and LS to navigate to the Logs folder and observing the files inside the Logs Directory with the ls command.
 
 ![image](https://github.com/user-attachments/assets/d6b5b98a-21a5-4985-82f2-5df0b6d269e0)
 
@@ -66,3 +66,8 @@ We also have to edit a file to record the changes or updates you make to the dir
 ![image](https://github.com/user-attachments/assets/b3ba573c-533e-4365-8d2c-e79d76102996)
 
 - Navigating to the reports directory and using ls to verify that the Q3patches file has been moved there.
+
+-![image](https://github.com/user-attachments/assets/8fdfbcc8-9885-48e9-8958-985e520b6a6b)
+
+- Navigating to the notes subdirectory and using ls to list the files inside the directory.
+
