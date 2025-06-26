@@ -41,5 +41,5 @@ We also have to edit a file to record the changes or updates you make to the dir
 
 ![image](https://github.com/user-attachments/assets/16c804c3-22aa-4b6c-8afc-f1ef13e420bf)
 
-- Using CD to return to the analyst directory, and ls to list the subdirectories in the analyst directory, and CD again to navigate to the notes directory.
+- Using CD to return to the analyst directory, and ls to list the subdirectories in the analyst directory, and CD again to navigate to the notes directory, then ls again to list the files in the notes subdirectory.
 
