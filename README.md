@@ -71,3 +71,6 @@ We also have to edit a file to record the changes or updates you make to the dir
 
 - Navigating to the notes subdirectory and using ls to list the files inside the directory.
 
+![image](https://github.com/user-attachments/assets/0ce6d248-a932-4e31-a0fe-f63c21080797)
+
+- Editing the task.txt in  home/analyst/notes file with nano.
