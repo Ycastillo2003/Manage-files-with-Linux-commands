@@ -43,3 +43,8 @@ We also have to edit a file to record the changes or updates you make to the dir
 
 - Using CD to return to the analyst directory, and ls to list the subdirectories in the analyst directory, and CD again to navigate to the notes directory, then ls again to list the files in the notes subdirectory.
 
+  ![image](https://github.com/user-attachments/assets/bab1fdfb-1d8f-423e-8d97-7e8876619bc4)
+
+- Using the MV command to move Q3_patches into the logs directory.
+
+
