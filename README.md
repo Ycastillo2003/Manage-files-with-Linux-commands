@@ -47,4 +47,8 @@ We also have to edit a file to record the changes or updates you make to the dir
 
 - Using the MV command to move Q3_patches into the logs directory.
 
+![image](https://github.com/user-attachments/assets/d7b366b7-9904-4fcd-bbaf-b99bbb5612f8)
+
+- Using Rm to remove the tempnotes files and using ls to verify that the files have been removed.
+
 
