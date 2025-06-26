@@ -30,3 +30,7 @@ We also have to edit a file to record the changes or updates you make to the dir
   ![image](https://github.com/user-attachments/assets/4f488665-38b9-4aa0-a311-0e0d802ab9ec)
 
 - Using the RMDIR command, delete the temp directory.
+
+![image](https://github.com/user-attachments/assets/f920f783-1aa3-47b3-968e-86ba3734acb6)
+
+- Verifying that the temp directory was deleted.
